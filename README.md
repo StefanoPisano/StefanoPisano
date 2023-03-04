@@ -30,7 +30,7 @@ I also like photography and whenever I can, I go for a hike in the nature with m
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
 
-#### Get in touch
+#### 🤝 Get in touch
 [![Java](https://img.shields.io/badge/-Email-black)](mailto:spisano@protonmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stefano-pisano) 
 
