@@ -1,4 +1,4 @@
-### :wave: Hello! I'm **Stefano**
+## :wave: Hello! I'm **Stefano**
 
 I am an italian software developer based in Milan. I strongly believe in good practices and team working. </br>
 I always try to apply some magic tricks which will transform bad code into clean code.<br/>
